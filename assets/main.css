@@ -495,7 +495,7 @@ h1.style4, h2.style4, h3.style4, p.style4 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.05rem;
 	width: calc(100% + 0.05rem);
-	font-size: 1.125em;
+	font-size: 1.25em;
 	line-height: 1.5;
 	font-weight: 400;
 }
@@ -516,7 +516,7 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	text-align: left;
 	color: #404040;
 	font-family: 'Inter', sans-serif;
-	font-size: 1em;
+	font-size: 1.25em;
 	line-height: 1.75;
 	font-weight: 300;
 }
@@ -546,7 +546,7 @@ h1.style3, h2.style3, h3.style3, p.style3 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.05rem;
 	width: calc(100% + 0.05rem);
-	font-size: 1.125em;
+	font-size: 1.375em;
 	line-height: 1.5;
 	font-weight: 700;
 }
@@ -895,7 +895,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	h1.style4, h2.style4, h3.style4, p.style4 {
 		letter-spacing: 0.04375rem;
 		width: calc(100% + 0.04375rem);
-		font-size: 1.125em;
+		font-size: 1.25em;
 		line-height: 1.5;
 	}
 	
@@ -917,7 +917,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	h1.style3, h2.style3, h3.style3, p.style3 {
 		letter-spacing: 0.04375rem;
 		width: calc(100% + 0.04375rem);
-		font-size: 1.125em;
+		font-size: 1.375em;
 		line-height: 1.5;
 	}
 	
@@ -986,7 +986,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	}
 	
 	h1.style4, h2.style4, h3.style4, p.style4 {
-		font-size: 1.125em;
+		font-size: 1.25em;
 	}
 	
 	h1.style1, h2.style1, h3.style1, p.style1 {
@@ -994,7 +994,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	}
 	
 	h1.style3, h2.style3, h3.style3, p.style3 {
-		font-size: 1.125em;
+		font-size: 1.375em;
 	}
 	
 	#buttons02 {
