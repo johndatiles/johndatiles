@@ -24,7 +24,7 @@ body {
 }
 
 html {
-	font-size: 13pt;
+	font-size: 11pt;
 }
 
 u {
@@ -113,7 +113,7 @@ a {
 	--padding-horizontal: 1rem;
 	--padding-vertical: 2.875rem;
 	--spacing: 2.5rem;
-	--width: 46rem;
+	--width: 36rem;
 	border-radius: var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl);
 	max-width: 100%;
 	position: relative;
@@ -465,7 +465,7 @@ h1.style2, h2.style2, h3.style2, p.style2 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.05rem;
 	width: calc(100% + 0.05rem);
-	font-size: 1.875em;
+	font-size: 1.75em;
 	line-height: 1.375;
 	font-weight: 700;
 }
@@ -495,7 +495,7 @@ h1.style4, h2.style4, h3.style4, p.style4 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.05rem;
 	width: calc(100% + 0.05rem);
-	font-size: 1.25em;
+	font-size: 1.125em;
 	line-height: 1.5;
 	font-weight: 400;
 }
@@ -516,7 +516,7 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	text-align: left;
 	color: #404040;
 	font-family: 'Inter', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.125em;
 	line-height: 1.75;
 	font-weight: 300;
 }
@@ -546,7 +546,7 @@ h1.style3, h2.style3, h3.style3, p.style3 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.05rem;
 	width: calc(100% + 0.05rem);
-	font-size: 1.375em;
+	font-size: 1.25em;
 	line-height: 1.5;
 	font-weight: 700;
 }
@@ -731,13 +731,13 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 
 @media (max-width: 1680px) {
 	html {
-		font-size: 9pt;
+		font-size: 8pt;
 	}
 }
 
 @media (max-width: 1280px) {
 	html {
-		font-size: 9pt;
+		font-size: 8pt;
 	}
 }
 
@@ -747,7 +747,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 
 @media (max-width: 980px) {
 	html {
-		font-size: 8pt;
+		font-size: 7pt;
 	}
 }
 
@@ -880,7 +880,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	h1.style2, h2.style2, h3.style2, p.style2 {
 		letter-spacing: 0.04375rem;
 		width: calc(100% + 0.04375rem);
-		font-size: 1.875em;
+		font-size: 1.75em;
 		line-height: 1.375;
 	}
 	
@@ -895,7 +895,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	h1.style4, h2.style4, h3.style4, p.style4 {
 		letter-spacing: 0.04375rem;
 		width: calc(100% + 0.04375rem);
-		font-size: 1.25em;
+		font-size: 1.125em;
 		line-height: 1.5;
 	}
 	
@@ -917,7 +917,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	h1.style3, h2.style3, h3.style3, p.style3 {
 		letter-spacing: 0.04375rem;
 		width: calc(100% + 0.04375rem);
-		font-size: 1.375em;
+		font-size: 1.25em;
 		line-height: 1.5;
 	}
 	
@@ -986,7 +986,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	}
 	
 	h1.style4, h2.style4, h3.style4, p.style4 {
-		font-size: 1.25em;
+		font-size: 1.125em;
 	}
 	
 	h1.style1, h2.style1, h3.style1, p.style1 {
@@ -994,7 +994,7 @@ h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 
 	}
 	
 	h1.style3, h2.style3, h3.style3, p.style3 {
-		font-size: 1.375em;
+		font-size: 1.25em;
 	}
 	
 	#buttons02 {
